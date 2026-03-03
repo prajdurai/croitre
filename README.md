@@ -1,2 +1,0 @@
-# Croitre
-Croitre Website
